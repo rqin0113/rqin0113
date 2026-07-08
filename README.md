@@ -21,6 +21,11 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rqin0113&layout=compact&theme=transparent)
 
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/riza-qin/
+- Email: r32qin@uwaterloo.ca
+
 <!--
 **rqin0113/rqin0113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
