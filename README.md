@@ -2,7 +2,7 @@
 
 # Hi, I'm Riza 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&center=true\&vCenter=true\&width=600\&lines=Mathematics+%40+University+of+Waterloo;Software+Developer;Incoming+QA+Developer+%40+OpenText;Learning+Machine+Learning+%26+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&center=true\&vCenter=true\&width=600\&lines=Mathematics+%40+University+of+Waterloo;Software+Engineer;Incoming+QA+Developer+%40+OpenText;Learning+Machine+Learning+%26+AI)](https://git.io/typing-svg)
 
 </div>
 
