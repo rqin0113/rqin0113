@@ -1,42 +1,35 @@
-## Hi, I'm Riza 👋
+<div align="center">
 
-🎓 Mathematics @ University of Waterloo
+# Hi, I'm Riza 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&center=true\&vCenter=true\&width=600\&lines=Mathematics+%40+University+of+Waterloo;Software+Developer;Incoming+QA+Developer+%40+OpenText;Learning+Machine+Learning+%26+AI)](https://git.io/typing-svg)
+
+</div>
 
 ## 🚀 Currently
 
-- Incoming QA Developer @ OpenText
-- Software Developer @ Waterloo Data Science Club
-- Learning ML & AI
+* 💼 Incoming QA Developer @ OpenText
+* 💻 Software Developer @ Waterloo Data Science Club
+* 🤖 Learning Machine Learning & AI
 
 ## 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql)
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rqin0113&layout=compact&theme=transparent)
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" alt="SQL" />
+</p>
 
 ## 📫 Connect
 
-- LinkedIn: https://www.linkedin.com/in/riza-qin/
-- Email: r32qin@uwaterloo.ca
-
-<!--
-**rqin0113/rqin0113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.linkedin.com/in/riza-qin/">
+    <img src="https://img.shields.io/badge/LinkedIn-Riza%20Qin-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:r32qin@uwaterloo.ca">
+    <img src="https://img.shields.io/badge/Email-r32qin%40uwaterloo.ca-EA4335?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
