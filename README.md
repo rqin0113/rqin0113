@@ -1,6 +1,14 @@
 <div align="center">
 
-# Hi, I'm Riza 👋
+<div align="center">
+
+# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
+
+### I'm **Riza Qin**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&center=true&width=700&lines=Mathematics+Student+at+University+of+Waterloo;Software+Developer;Building+with+React+%7C+TypeScript+%7C+Python;Learning+Machine+Learning+%26+AI"/>
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&center=true\&vCenter=true\&width=600\&lines=Mathematics+%40+University+of+Waterloo;Software+Engineer;Incoming+QA+Developer+%40+OpenText;Learning+Machine+Learning+%26+AI)](https://git.io/typing-svg)
 
