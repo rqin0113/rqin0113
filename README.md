@@ -5,15 +5,9 @@
   Hi, I'm Riza
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=650&lines=Mathematics+%40+University+of+Waterloo;Software+Engineer;Incoming+QA+Developer+%40+OpenText;Learning+ML+%26+AI"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Mathematics+Student+%40+University+of+Waterloo;Software+Engineer;Incoming+QA+Developer+%40+OpenText;Interested+in+Software,+Machine+Learning,+and+AI" />
 
 </div>
-
-## 🚀 Currently
-
-* 💼 Incoming QA Developer @ OpenText
-* 💻 Software Developer @ Waterloo Data Science Club
-* 🤖 Learning Machine Learning & AI
 
 ## 🛠️ Tech Stack
 
