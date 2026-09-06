@@ -5,7 +5,7 @@
   Hi, I'm Riza
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=CS+%2B+Finance+%40+University+of+Waterloo;Software+Engineer;Intern+%40+OpenText;Interested+in+Software,+Data,+Finance,+and+AI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=CS+%2B+Finance+%40+University+of+Waterloo;Software+Engineer;Interning+%40+OpenText;Interested+in+Software,+Data,+Finance,+and+AI" />
 
 </div>
 
